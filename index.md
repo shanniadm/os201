@@ -10,6 +10,7 @@ membagikan sumber yang berkaitan dengan Sistem Operasi itu sendiri.
 
 Kiranya, website ini dapat berguna bagi pembaca sekalian. 
 
-Salam, 
+Salam,
+
 Shannia Dwi Melianti - C - 1806191332
 
