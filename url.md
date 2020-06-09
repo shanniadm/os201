@@ -1,5 +1,5 @@
 ---
-permalink: /sumber/
+permalink: /URLs/
 ---
 
 # Kumpulan Sumber untuk mempelajari Sistem Operasi
