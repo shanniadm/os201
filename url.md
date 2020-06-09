@@ -2,7 +2,9 @@
 permalink: /sumber/
 ---
 
-#Kumpulan Sumber mengenai Sistem Operasi
+# Kumpulan Sumber untuk mempelajari Sistem Operasi
+---------------------------------------------------------
+Berikut ialah sumber yang dapat membantu dalam pembelajaran Sistem Operasi : 
 
 * [OS.VLSM.ORG](https://os.vlsm.org/)
 * [GitHub Sistem Operasi](https://github.com/UI-FASILKOM-OS/SistemOperasi)
