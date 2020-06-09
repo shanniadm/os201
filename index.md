@@ -8,7 +8,7 @@ Saya merupakan salah satu mahasiswa Fakultas Ilmu Komputer dengan jurusan Sistem
 Tujuan saya membuat website ini ialah untuk pemenuhan tugas akhir mata kuliah Sistem Operasi serta 
 membagikan sumber yang berkaitan dengan Sistem Operasi itu sendiri. 
 
-* Klik tautan berikut untuk melihat kumpulan sumber untuk pembelajaran Sistem Operasi : [CLICK HERE](sumber/)
+* Klik tautan berikut untuk melihat kumpulan sumber untuk pembelajaran Sistem Operasi : [URLs](URLs/)
 
 Kiranya, website ini dapat berguna bagi pembaca sekalian. 
 
